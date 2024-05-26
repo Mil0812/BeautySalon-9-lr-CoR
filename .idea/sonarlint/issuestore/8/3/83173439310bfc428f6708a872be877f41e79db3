@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ¿Ò8µ·õ«ğ1J$6206b325-3c68-4739-bc9f-340878d265d1
+~	java:S125"<This block of commented-out lines of code should be removed.(ˆ„‰Ñ8Ğ·õ«ğ1J$7fdb8fed-1538-4d72-a91a-bd83d4893cd8
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ó÷¹óøÿÿÿÿ8Ğ·õ«ğ1J$ce3c0d33-90dd-48d8-bf01-842735673187
+X	java:S125"<This block of commented-out lines of code should be removed.(‡ÜâĞ8š¼÷«ğ1
+r	java:S106O"+Replace this use of System.out by a logger.(¼øìåıÿÿÿÿ8ß·õ«ğ1J$f2d50d1c-c9ee-452a-9914-d3da4c430c53
+m	java:S106Q"+Replace this use of System.out by a logger.(©„Ò8à·õ«ğ1J$eef54dfe-af91-4939-9136-e1fd2c73d3dc
+m	java:S106T"+Replace this use of System.out by a logger.(õÏíØ8á·õ«ğ1J$902f1e59-8ddb-40c4-a4e3-64f276968aa1
+^
+java:S1144"ARemove this unused private "testAssistanceTypeValidation" method.(é­›ï8¨¼÷«ğ1
+‚
+java:S1144+"?Remove this unused private "testBeautyMasterValidation" method.(ÍŞ°8â·õ«ğ1J$3fec024e-6602-428c-9c4a-cac9d3cd9cf4
+
+java:S11449"9Remove this unused private "testClientValidation" method.(‡ş„áûÿÿÿÿ8â·õ«ğ1J$1523a282-7b8d-42f5-b8f4-5d79d601d920
